@@ -1,7 +1,7 @@
-# Projeto de autenticação Basic
+# Projeto API
 
-<p>Neste projeto que desenvolvi, utilizei a biblioteca `PASSPORT` para auxiliar na autenticação.</p>
-<p>Projeto rodando em forma de API com consulta ao banco de dados, disponivel na raiz do projeto!</p><br/>
+<p> Projeto desenvolvido para simular uma situação real de consulta ao banco de dados, neste projeto o objetivo e criar, logar com uma
+  senha criptografada.</p>
 <h3>Para rodar este projeto será necessario algumas ferramentas</h3><br/>
 
 Nodemon é Ts-Node - para instalação deles e bem simples <br/>
